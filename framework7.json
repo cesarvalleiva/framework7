@@ -1,0 +1,19 @@
+{
+  "cwd": "/Users/cesarvalleiva/Desktop/framework7",
+  "type": [
+    "web"
+  ],
+  "name": "framework7",
+  "framework": "vue",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
